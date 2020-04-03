@@ -1,0 +1,25 @@
+How Data Science and Machine Learning depend on each other?
+
+Effective ML demands good data science. “A data scientist’s expertise is absolutely required to ensure machine learning is used and deployed properly,” Baritugo says. The data scientist may ensure the model is provided with the requisite amount of cleaned and normalized datasets for training and that the right algorithms are used based on the datasets and the business question to be addressed.
+However, data science can be applied outside the realm of machine learning. "Data science is the practical application of artificial intelligence, machine learning and deep learning.
+While the goal of data science is to extract insights from data, predict future developments, and suggest actions - sometimes even performing those actions automatically - this is achieved with tools like AI & ML.
+
+
+Machine Learning Algorithms
+1. Supervised Learning
+2. Unsupervised Learning
+3. Reinforcement Learning
+4. Linear Regression
+5. Logistic Regression
+6. Decision Tree
+7. SVM
+8. Naive Bayes
+9. kNN
+10. K-Means
+11. Random Forest
+12. Dimensionality Reduction Algorithms
+13. Gradient Boosting Algorithms
+    i) GBM
+    ii) XGBoost
+    iii) LightGBM
+    iv) CatBoost
