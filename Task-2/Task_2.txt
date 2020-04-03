@@ -1,0 +1,15 @@
+import pandas as pd
+import numpy as np
+
+df = pd.read_csv('/Users/aryam/Downloads/2.12_Health_systems.csv')
+
+df
+
+df.isnull().sum()   #To find missing values
+
+df.describe()   #To find mean
+
+df = df['Completeness_of_death_reg_2008-16'].replace('NaN', 89.309346, inplace=True)   #To replace mssing values with mean
+
+df
+
